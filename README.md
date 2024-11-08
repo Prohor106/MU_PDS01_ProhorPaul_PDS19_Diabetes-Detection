@@ -57,9 +57,8 @@ pip install -r requirements.txt
 ```plaintext
 diabetic-detection/
 ├── diabetes_prediction_dataset.csv  # Dataset file
-├── diabetic_detection.ipynb         # Jupyter Notebook with the project code
-├── README.md                        # Project README file
-└── requirements.txt                 # List of required packages
+├── diabetic_detection.ipynb         # Jupyter Notebook 
+└── README.md                        # Project README file
 ```
 
 ## Usage
